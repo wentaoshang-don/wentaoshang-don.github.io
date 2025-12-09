@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my Academic Page! 👋 I am (Donald Shawn) Wentao Shang, an Engineering Doctorate student in computer technology at Sun Yat-sen University and research assistant at Pengcheng Laboratory. My work centers on CAN Bus security, and AI-driven cybersecurity, LLM Security.
+Welcome to my Academic Page! 👋 I am (Donald Shawn) Wentao Shang, an Ph.D student on Computer Technology, School of Computer Science and Engineering, Sun Yat-sen University. I have recevied my B.E on Information Security (Secret Protection), School of Computer Science and Engineering, Beijing Jiaotong University. My interests centers on CAN Bus security, and AI-driven cybersecurity, LLM Security.
 
 Education
 =====
