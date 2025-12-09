@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 redirect_from:
   - /resume
-redirect_to: /files/wentao_shang_CV.pdf
+redirect_to: /files/Academic_CV_Template.pdf
 ---
 PDF：[/files/Academic_CV_Template.pdf](/files/Academic_CV_Template.pdf)
 
