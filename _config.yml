@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Wentao Shang"
   pronouns         : # example: "she/her"  
-  #bio              : "Short biography for the left-hand sidebar"
-  #location         : "Earth"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
   employer         : "Sun Yat-sen University"
-  #uri              : # URL
-  #email            : "shangwentao3@outlook.com" 
+  uri              : # URL
+  email            : "shangwentao3@outlook.com" 
 
   # Academic websites
   academia         : # URL
