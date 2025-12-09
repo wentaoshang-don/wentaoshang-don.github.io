@@ -11,37 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Sun Yat-sen University, 2029 (expected)
+* B.S. in Information Security, Beijing Jiaotong University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant, Pengcheng Laboratory, Dept. of New Networks, 2025-present
   
-Skills
+Selected Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Zero-Knowledge Proof-based Privacy Query System Blockchain-powered privacy queries using NIZK on FISCO-BCOS.
+* Autonomous Driving Digital Twin Simulation Cycle-GAN generated high-risk driving scenarios to test model robustness.
+* CAN Bus Intrusion Detection CNN-based detector for spoofing and DoS attacks in vehicle networks.
 
-Publications
+Patents & Service
+======
+* Patent: "Network Switch" (ZL 2022 2 3126982.8, China)
+* Reviewer: Chinese Journal of Electronics
+
+Honors & Awards
+======
+* 3rd Award, 16th National Cybersecurity Competition, Zhejiang University (2023)
+* Global Runner-up, DEF CON 30 Auto-driving Contest, University of California, Irvine (2022)
+* BJTU Elite Award (Top 6 Students), Beijing Jiaotong University (2023)
+<!--Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +54,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
+
