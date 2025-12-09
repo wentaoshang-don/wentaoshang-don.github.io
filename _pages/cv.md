@@ -1,4 +1,15 @@
 ---
+layout: redirect
+title: "CV"
+permalink: /cv/
+redirect_from:
+  - /resume
+redirect_to: /files/wentao_shang_CV.pdf
+---
+PDF：[/files/Academic_CV_Template.pdf](/files/Academic_CV_Template.pdf)
+
+<!--
+---
 layout: archive
 title: "CV"
 permalink: /cv/
