@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic Page of Wentao (Donald) Shang"
 author_profile: true
 redirect_from: 
   - /about/
